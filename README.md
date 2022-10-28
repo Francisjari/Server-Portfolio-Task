@@ -1,4 +1,4 @@
-# Zuri NodeJs Task 91 
+## Zuri Server Portfolio Task 
 
 Create a portfolio having the following HTML pages:
 
@@ -18,8 +18,5 @@ Push your code to GitHub.
 Note: 
 1. No third-party dependencies
 2. You don’t need to style your HTML pages
- 
-
-Submission Mode: Accessible GitHub Link
 
 Link to replit ; https://replit.com/@Francisjari/Server-Portfolio#index.js
